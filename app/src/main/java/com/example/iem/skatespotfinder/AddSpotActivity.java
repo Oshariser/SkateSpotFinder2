@@ -53,6 +53,7 @@ public class AddSpotActivity extends Activity {
             @Override
             public void onClick(View v) {
                 //getCurrentLocation();
+                //some modification
                 GpsTracker lGpsTracker = new GpsTracker(AddSpotActivity.this);
                 if (lGpsTracker.canGetLocation()) {
                     mTextViewLatitude.setText("Latitude : " + String.valueOf(lGpsTracker.getLatitude()));
