@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SkateSpotFinder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_add_spot">AddSpotActivity</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="button_get_localisation">Locate</string>
+    <string name="button_add_spot">Add</string>
+    <string name="button_browse">Browse</string>
+
+</resources>
